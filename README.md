@@ -1,5 +1,4 @@
-# IPC_Test
+# WDK
 
-Test IPC (Inter Process Communication) by 3 ways.
-2017-11-16 Lichun
-Version 1.00.01.01
+Windows driver development
+2018-6-6 create, Lichun
