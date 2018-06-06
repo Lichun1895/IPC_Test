@@ -1,0 +1,4 @@
+ERROR - "z:\project\source_v3.00\source\wdktest\first" file time is slightly in the future (0x1d39ab2a42e00ad (1/31/2018 16:43:37) vs. 0x1d39ab2a15f177a (1/31/2018 16:43:32)).
+
+ERROR - "z:\project\source_v3.00\source\wdktest\first\objchk_wxp_x86\i386\_objects.mac" file time is slightly in the future (0x1d39ab2a498f90e (1/31/2018 16:43:38) vs. 0x1d39ab2a168a0e2 (1/31/2018 16:43:32)).
+
